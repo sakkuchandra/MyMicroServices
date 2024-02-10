@@ -1,0 +1,36 @@
+from react app to employee details
+should return salary
+should return basic info
+
+prudhvi
+
+224 660 2252
+
+testcase template
+defect case template
+agile 
+agile cermonies
+sprint planning
+dialy standup
+retrospective
+product backlog
+
+how to estimate the user story
+what are the user story points
+what defect lifecyle
+inner join
+left outer join,right out join
+where condition
+
+how to prepare test data
+what is functional testing
+what is regresssion
+what is integration testing
+what is end to end testing
+what is database testing
+what is api testing
+
+
+corejava selenium
+
+
